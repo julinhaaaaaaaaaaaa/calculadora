@@ -1,0 +1,15 @@
+<html><script language="javascript"> op="";//operadores globais.
+num1="0"
+num2="0"
+PrimeiroNumero=true;
+PomtoDecimal=false;
+memoria="";
+<!_*********************************_>
+<!**PROGRAMA APERFEIÇOADO POR JEAN CARLO FRANÇA**_>
+<!_** **_>
+function verificatecla(caracter){
+    if(window.event){// Internet Explorer
+        var tecla=event.keyCode;
+        //alert(PrimeiroNumero);
+        if((tecla>47)
+}
